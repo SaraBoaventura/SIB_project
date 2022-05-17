@@ -1,6 +1,6 @@
 # SIB_project
 
-## Classificação de proteínas, a partir da sua sequência de aminoácidos
+## Binary classification of protein SNAREs
 
 Etapa 1: Exploração inicial e pré-processamento
 • Rever toda a documentação disponível sobre o conjunto de dados.
